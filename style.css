@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+.nb_news{ 
+    background-color: SkyBlue;
+    padding: 10px;
+    border-radius:  10px;
+}
+.nb_nows {
+    color: blueviolet;
+}
+nav a{
+    border-radius:  10px;
+    border: 1px solid yellow;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 10px;
+}
+.nb_free{
+    text-decoration: none;
+    background-color: Aqua;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.nb_heart{
+    color: blue;
+    padding: 10px;
+}
+footer p{
+    background-color: green;
+}
+.nb_jane{
+    background-color: lightgreen;
+    padding: 10px;
+}
